@@ -156,8 +156,6 @@ public class Grid
 				}
 			}
 		}
-		// Check every column. If you find an illegal column, return false.
-		// Check every block. If you find an illegal block, return false.
 		
 		// All rows/cols/blocks are legal.
 		return true;
